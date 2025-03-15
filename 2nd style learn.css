@@ -1,0 +1,21 @@
+body {
+  background-color: cornsilk;
+  color: coral;
+  font-weight: normal;
+}
+h2 {
+  font-weight: bold;
+  font-style: italic;
+}
+#first {
+  font-family: Helvetica;
+}
+#second {
+  color: black;
+  font-weight: bold;
+  font-style: italic;
+}
+#third {
+  color: black;
+  font-size: 10px;
+}
